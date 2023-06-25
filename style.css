@@ -1,0 +1,104 @@
+.container{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin: 50px 100px;
+    padding: 100px 0 0 100px;
+    border-radius: 35px;
+    
+}
+.greatest-title-container{
+    display: flex;
+    justify-content: center;
+
+}
+
+.greatest-title{
+    background-color: black;
+      width: 20%;  
+    border-radius: 10px;
+    margin: 20px;
+
+}
+h5{
+    font-size:1.4em ;
+}
+.greatest{
+    background-color: red;
+    width: 150px;
+    margin: 20px;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+}
+.blog{background-color: white;
+    
+    width: 150px;
+    margin: 20px;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+}
+.Greatest-earth{
+    font-size: 4em;
+}
+.Watch-live{
+    text-decoration: none;
+    background-color: red;
+    padding: 10px 15px;
+    color:white ;
+    border-radius: 5px;
+    
+}
+
+
+.greatest-title{
+    display: grid;
+    /* grid-template-columns: 1fr; */
+    margin-bottom: 50%;
+}
+    
+
+.transfe-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    margin-left: 100px;
+    margin-right: 50px;   
+}
+.germany-Flag{
+    border: 1px solid wheat;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 30px 10px 20px 20px;
+    
+}
+h3{
+    font-size: 1.5em;
+}
+h4{
+    font-size: 1.2em;
+}
+.Goal{
+    text-align: center;
+    padding-top: 100px;
+    margin-bottom: 50px;
+}
+.Flag{
+    margin: 5px;
+}
+footer{
+    background-color: black;
+    color: white;
+    height:350px
+}
+.Contact-footer{
+    display: grid;
+    grid-template-columns: repeat(6,1fr);
+    justify-items: center;
+    margin: 0 250px;
+    border-top: 1px solid whitesmoke;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+    

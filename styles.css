@@ -1,0 +1,107 @@
+.container{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin: 50px 100px;
+    padding: 100px 0 0 100px;
+    border-radius: 35px;
+    
+}
+/* .greatest-title-container{
+    display: grid;
+    grid-template-rows: repeat(4,1fr); */
+
+.greatest-title{
+    background-color: black;
+    width: 20%;
+    border-radius: 10px;
+    margin: 20px;
+
+}
+.greatest{
+    background-color: white;
+    width: 150px;
+    margin: 20px;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+}
+.blog{
+    background-color: red;
+    width: 150px;
+    margin: 20px;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+}
+.Greatest-earth{
+    font-size: 4em;
+}
+.Watch-live{
+    text-decoration: none;
+    background-color: red;
+    padding: 10px 15px;
+    color:white ;
+    border-radius: 5px;
+    
+}
+.Banner-Image{
+    width: 500px
+}
+
+.greatest-title{
+    display: grid;
+    grid-template-columns: 1fr;
+}
+    
+
+.transfe-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    margin-left: 300px;
+    
+    
+    
+}
+.transfe-img{
+
+margin: 10px ;
+border: 2px solid whitesmoke;
+padding-right:0px;
+width: 90.5%;
+border-radius: 10px; 
+}
+h2,.time-icon{
+    margin-left: 20px;
+}
+h4{
+    margin-left: 20px;
+    border: 1px solid;
+    width: 25%;
+    padding: 5px 10px;
+    font-size: 1.5em;
+    border-radius: 5px;
+}
+footer{
+    background-color: black;
+    color: white;
+    height:350px
+}
+.Goal{
+    text-align: center;
+    padding-top: 100px;
+    margin-bottom: 50px;
+     
+    
+}
+.Contact-footer{
+    display: grid;
+    grid-template-columns: repeat(6,1fr);
+    justify-items: center;
+    margin: 0 250px;
+    border-top: 1px solid whitesmoke;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+    
